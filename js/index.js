@@ -2,10 +2,10 @@ $("#button1").click(function() {
     $('html, body').animate({ scrollTop:$("#page1").offset().top}, 1000);
 });
 
-
 $("#button2").click(function() {
     $('html, body').animate({ scrollTop:$("#page2").offset().top}, 1000);
 });
+
 
 $("#button3").click(function() {
     $('html, body').animate({ scrollTop:$("#page3").offset().top}, 1000);
@@ -13,6 +13,10 @@ $("#button3").click(function() {
 
 $("#button4").click(function() {
     $('html, body').animate({ scrollTop:$("#page4").offset().top}, 1000);
+});
+
+$("#button5").click(function() {
+    $('html, body').animate({ scrollTop:$("#page5").offset().top}, 1000);
 });
 
 $('input').keydown(function() {

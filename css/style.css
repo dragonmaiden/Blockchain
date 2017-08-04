@@ -94,6 +94,30 @@ a:visited{
 }
 
 
+#page2 {
+  background-image:url("https://iso.500px.com/wp-content/uploads/2014/07/big-one.jpg");
+  background-size:cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  height:500px;
+  width:auto;
+  margin:0px;
+}
+
+.wrapping > p{
+  text-align:center;
+  font-size:80px;
+  font-family:Cambria;
+  
+}
+
+.wrapping{
+ margin: auto;
+    width: 50%;
+    padding: 20px;
+}
 
 p {
   color:white;
@@ -113,7 +137,7 @@ a:hover{
   color:red;
 }
 
-#page2{
+#page3{
   background-image:url('http://mariepage.com/gratuit/One-Page/assets/img/bg/bgonly.jpg');
   background-size:cover;
  background-size:cover;
@@ -154,7 +178,7 @@ float:right;
 }
 
 
-#page3 {
+#page4 {
   background-image:url("https://cryptoconsultant.com/wp-content/uploads/2015/10/slide1-bg.jpg");
   background-size:cover;
     background-attachment: fixed;
@@ -185,7 +209,7 @@ float:right;
   padding-top:20px;
 }
 
-#page4 {
+#page5 {
   background-image:url("https://static1.squarespace.com/static/52c5cf5ae4b0a9e93ac17133/5669d0721c1210f372a620a9/5669d132cbced60d962c9ab6/1449775414570/Guest-Landing-Page.jpg?format=2500w");
   background-size:cover;
     background-attachment: fixed;
@@ -197,12 +221,12 @@ float:right;
   margin:0px;
 }
 
-#page4 h2{
+#page5 h2{
   color:black;
   font-weight:bold;
 }
 
-#page4 p {
+#page5 p {
   display:inline;
   color:black;
   font-size:25px;
