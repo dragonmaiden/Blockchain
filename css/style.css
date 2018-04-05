@@ -151,23 +151,19 @@ a:hover{
 }
 
 #btc{
-  padding-top:10%;
-  padding-left:10%;
-}
-
-.btc{
   padding-top:125px;
   padding-left:100px;
 }
 
-.eth{
-float:right;
-  margin-right:75px
+#eths{
+  float:right;
+  margin-right:100px;
 }
 
-#eth2{
-  width:200px;
+
+#eth{
   border-radius:50%;
+  width:200px;
 }
 
 .videocenter {
