@@ -188,6 +188,8 @@ a:hover{
 
 .profilecard img {
   border-radius:50%;
+  width:190px;
+  height:200px;
 }
 
 .profilecard p{
